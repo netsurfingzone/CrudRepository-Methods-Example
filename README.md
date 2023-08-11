@@ -1,4 +1,4 @@
 # CrudRepository-Methods-Example
 CrudRepository Methods Example
 
-https://www.netsurfingzone.com/jpa/crudrepository-methods-example/
+https://www.javatute.com/jpa/crudrepository-methods-example/
